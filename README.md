@@ -1,6 +1,8 @@
 # iffy
 
-Let's create a shape teller so you'll never have to be iffy about shapes ever again! Is it a triangle, a quadrilateral, or something else? Users can input the number of sides for the shape they're thinking about. Upon clicking a button, the mysterious shape will be revealed! 
+Let's create a shape teller so you'll never have to be iffy about shapes ever again! Is it a triangle, a quadrilateral, or something else? Users can input the number of sides for the shape they're thinking about. Upon clicking a button, the mysterious shape will be revealed!
+
+![Devball](https://github.com/junior-devleague/iffy/blob/master/iffy.gif)
 
 ## Objective
 Use **JavaScript If Statements** to change the **innerHTML** of a text area and display the name of shapes with different numbers of sides.
