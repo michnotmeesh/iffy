@@ -47,3 +47,7 @@ To complete the second part of this warmup, fulfill the following requirements:
 https://www.w3schools.com/tags/tag_input.asp
 https://www.w3schools.com/jsreF/met_element_addeventlistener.asp
 https://www.w3schools.com/jsref/met_document_getelementbyid.asp
+
+### Stretch Goals
+1. Pretty up your page!!
+2. Add the image of the corresponding shape to the page. Hint: Change the ```image.src```! 
