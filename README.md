@@ -32,15 +32,14 @@ To complete the second part of this warmup, fulfill the following requirements:
 1. In your JS file, you will need to store the ```input```, ```button```, and 2nd ```p``` element in variables.
 2. Add an ```Event Listener``` to the ```button``` that will listen for a ```click```.
 3. Create if statements in the function for this event listener.
-* If the value in the input box is 3, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 3 sides.
+* If the value in the input box is 3, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 3 sides. (e.g. "Triangle")
 * If the value in the input box is 4, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 4 sides.
 * If the value in the input box is 5, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 5 sides.
-* If the value in the input box is 3, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 5 sides.
-* If the value in the input box is 4, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 6 sides.
-* If the value in the input box is 5, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 7 sides.
-* If the value in the input box is 3, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 8 sides.
-* If the value in the input box is 4, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 9 sides.
-* If the value in the input box is 5, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 10 sides.  
+* If the value in the input box is 6, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 6 sides.
+* If the value in the input box is 7, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 7 sides.
+* If the value in the input box is 8, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 8 sides.
+* If the value in the input box is 9, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 9 sides.
+* If the value in the input box is 10, the ```innerHTML``` of the 2nd p tag should display the string saying the correct shape with 10 sides.  
 * If the value is NONE of these values, the ```innerHTML``` of the 2nd p tag should display the string "Try Again!".
 
 ### Resources
@@ -50,4 +49,4 @@ https://www.w3schools.com/jsref/met_document_getelementbyid.asp
 
 ### Stretch Goals
 1. Pretty up your page!!
-2. Add the image of the corresponding shape to the page. Hint: Change the ```image.src```! 
+2. Add the image of the corresponding shape to the page. Hint: Change the ```image.src```!
